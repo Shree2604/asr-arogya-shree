@@ -1,0 +1,5 @@
+gradio-client @ git+https://github.com/gradio-app/gradio@b78129d90fc800e6987226114adc2f062dc403ec#subdirectory=client/python
+https://gradio-builds.s3.amazonaws.com/b78129d90fc800e6987226114adc2f062dc403ec/gradio-4.25.0-py3-none-any.whl
+torch
+torchaudio
+transformers
